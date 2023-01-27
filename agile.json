@@ -1,0 +1,2068 @@
+{
+    "name": "Agile Scrum Project Management Methodology",
+    "abbrv": "agile",
+  
+    "questions": [
+      {
+        "text": "Teams may encounter the need for 'technical' user stories. Who decides the priority of these?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "the Product Owner with help from Operations",
+          "b": "the Tech Lead with help from the Product Owner",
+          "c": "the Product Owner with help from the Tech Lead",
+          "d": "the Tech Lead with help from Operations"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "What is the Scrum Master's role during the daily stand-up?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "Congratulate the team on their great work.",
+          "b": "Stand outside the circle of developers and listen for impediments.",
+          "c": "The Scrum Master should not attend—this meeting is for developers only.",
+          "d": "Ask each developer what they did since the last daily standup."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "Which factor should not be considered during Sprint Planning?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "the team's velocity",
+          "b": "the number of stories in the product backlog",
+          "c": "the stories that are ready",
+          "d": "the team's capacity"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "A team member has been showing signs of great personal distress: crying at work, snapping at colleagues, having heated phone conversations. As Team Facilitator, what should you do?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "Give the team member space and time to deal with their personal issues.",
+          "b": "Tell the others on the team that their teammate needs some emotional support.",
+          "c": "Notify the team member's manager of your observations and ask the manager for help.",
+          "d": "Ask the team member if they would like to talk about what might be going on with them personally."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "hich statement describes the flow of work in the Scaled Agile Framework?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "It is a 'push' system.",
+          "b": "It is 'push' at the top and 'pull' at the bottom.",
+          "c": "It is a 'pull' system.",
+          "d": "It is neither 'push' nor 'pull.'"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "What is the Product Owner's role in deciding the priority of work in the sprint backlog?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "None—the Scrum Master should prioritize the work in the sprint backlog.",
+          "b": "The PO should prioritize the items in the sprint backlog.",
+          "c": "The developers prioritize work unless they cannot complete it, in which case the PO should prioritize the remaining work.",
+          "d": "None—the developers should prioritize the work in the sprint backlog."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "The Scaled Agile Framework advocates that, if you measure only one thing, what should you measure?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "quality",
+          "b": "predictability of delivery",
+          "c": "cost of delay",
+          "d": "return on investment"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "Why should you apply Weighted Shortest Job First?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "to maximize the return on investment",
+          "b": "to determine the economic sequencing of the backlog",
+          "c": "to visualize queue length",
+          "d": "to fulfill a commitment to quality"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "You have classified the features in your backlog according to risk and value. Which features should the development team work on first?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "low-value and high-risk",
+          "b": "high-value and high-risk",
+          "c": "high-value and low-risk",
+          "d": "low-value and low-risk"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "In the Scaled Agile Framework, what is the role of Enablers?",
+        "img": "",
+        "qType": "",
+        "choices": {
+          "a": "They help extend the Architectural Runway.",
+          "b": "They connect vision to mission so the organization can be successful.",
+          "c": "They support team building.",
+          "d": "They remove the impediments to quality."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "Which outcome is not expected of a Sprint Review?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "The team demonstrates its completed work.",
+          "b": "The team reflects on how to improve its performance.",
+          "c": "Items in the backlog may be reprioritized.",
+          "d": "Stakeholders ask questions about the completed and upcoming backlog items."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "What is not a technique used for splitting user stories?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "split by line-of-business",
+          "b": "split compound user stories",
+          "c": "split by alternative paths",
+          "d": "split by interface"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "Who decides what the team will work on?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "the Scrum Master",
+          "b": "a self-organizing team",
+          "c": "the Product Owner",
+          "d": "the Product Manager"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "Which choice is not a Scrum value?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "focus",
+          "b": "integrity",
+          "c": "courage",
+          "d": "commitment"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "What should happen if the Product Owner does not accept a story by the end of the iteration?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "The team does not get credit for the story's points in its velocity calculation.",
+          "b": "The story should be sliced to reflect the work completed.",
+          "c": "The acceptance criteria should be adjusted to reflect the work completed.",
+          "d": "The story should be shown to stakeholders for their feedback."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "Which statement is not true about the product backlog?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "It is a list of work items that are behind schedule.",
+          "b": "The items are maintained in priority order.",
+          "c": "Anyone on the team can propose an item for it.",
+          "d": "It includes all of the work to be done."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "A project has some major risks that the team wants to mitigate. What is the best way to monitor how well this effort is going?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "risk-based spike",
+          "b": "risk-adjusted backlog",
+          "c": "risk velocity chart",
+          "d": "risk burndown graph"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "The VP of Engineering wants to start giving out a 'Team Member of the Sprint' award to recognize a top performer in each group. What advice should you give this VP?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "This is unhelpful unless there has been recent employee feedback indicating that people feel underappreciated.",
+          "b": "This is a good idea as long as a different person is recognized in each sprint.",
+          "c": "This is a good idea because awards can motivate people to do their best.",
+          "d": "This is unhelpful because it can destroy the team unity essential to achieving high performance."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "What is a difference between a team's task board and a Kanban?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "A Kanban has an explicit rule to limit WIP.",
+          "b": "A Kanban shows the backlog of work.",
+          "c": "A Kanban does not use a Definition of Done.",
+          "d": "A Kanban shows the status of the work items."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "The team complains that 'things have been falling through the cracks lately.' What should you do?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "Ask the team's manager to make role assignments so the team can catch up.",
+          "b": "Conduct a workshop to identify all of the things that need to be done and see who can help with each.",
+          "c": "Refer to the team's RACI (Responsible, Accountable, Consulted, Informed) assignments.",
+          "d": "Meet with the Tech Lead and Product Owner to try to identify what can be done."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "In Large-Scale Scrum, what is the recommended ratio of Scrum Masters to teams?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "One Scrum Master can support up to five teams.",
+          "b": "Large teams should have two Scrum Masters.",
+          "c": "There should be one Scrum Master per team.",
+          "d": "One Scrum Master can support one to three teams."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "In the Cynefin framework, where are 'best practices' most appropriate?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "in the Complex regime",
+          "b": "in the Complicated regime",
+          "c": "in the Chaotic regime",
+          "d": "in the Obvious regime"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "A manager informs you that a developer from another team is between assignments, and she wants to place the developer on your team for a few sprints. What should you do?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "Explain to the manager that this will be disruptive to the team and ask that another assignment be found.",
+          "b": "Explain the situation to the team and ask them to go with the flow.",
+          "c": "Explain the situation to your manager and ask them to resolve it.",
+          "d": "When the temporary developer shows up, assign them to write documentation."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "The Product Owner complains to you that the team is not working hard enough and they need to increase their velocity by at least 50%. Which action should you not take?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "Share the feedback from the PO and challenge the team to increase their velocity.",
+          "b": "Ask the PO to explain the business context to the team.",
+          "c": "Explain the impact of technical debt to the PO and the benefits of devoting some capacity to reducing it.",
+          "d": "Hold a Value Stream Mapping workshop to identify and reduce waste."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "What is the name of the practice in which a cross-functional team collaborates intensively to develop a new product idea?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "Hackathon",
+          "b": "Scrum at Scale",
+          "c": "Innovation and Planning",
+          "d": "Magnum Focus"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "The team's manager wants to attend the Sprint Retrospective. What should you do?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "Agree to the manager's request and notify the team.",
+          "b": "Propose that the manager attend only every other retrospective.",
+          "c": "Propose a different forum for the manager to meet with the team.",
+          "d": "Ask the team if it is okay with them that the manager attend."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "Who is responsible for a Scrum team's performance?",
+        "img": "",
+        "qType": "",
+        "choices": {
+          "a": "the team",
+          "b": "the Scrum Master",
+          "c": "the Product Owner",
+          "d": "the Engineering Manager"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "Which statement concerning small, frequent releases of software is true?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "The chance for rollback is high.",
+          "b": "It typically requires a high degree of automation.",
+          "c": "The administrative costs are high.",
+          "d": "Backward compatibility may be jeopardized."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "What is the activity of clarifying and expanding user stories called?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "story point estimating",
+          "b": "Definition of Done",
+          "c": "user story expansion",
+          "d": "backlog refinement"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "Which strategy is preferred for development teams?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "Optimize for most work done.",
+          "b": "Maximize output and maximize outcome.",
+          "c": "Maximize outcome while minimizing output.",
+          "d": "Optimize for resource utilization."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "Which statement is true about the actor in a user story?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "The actor does not have to be a specified role in the solution.",
+          "b": "There must be multiple personas for each actor.",
+          "c": "The actor can be the system itself.",
+          "d": "The system cannot be the actor."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": "",
+        "ref": "[Reference](https://tcagley.wordpress.com/2015/03/31/the-difference-between-a-persona-and-an-actor/) Actors can be a person, group, or system(s)."
+      },
+      {
+        "text": "Which statement is true about Agile?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "Agile requires a high degree of up-front planning.",
+          "b": "Once the requirements are agreed to, the team can complete work.",
+          "c": "Agile requires a high degree of discipline.",
+          "d": "Agile works best when there is no contract."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "Which statement about burndown and burnup charts is not true?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "Burndown charts show the work remaining to be done.",
+          "b": "Burnup charts show the work completed.",
+          "c": "Burndown charts are more useful than burnup charts.",
+          "d": "Agile project management tools can produce these automatically."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "What is the name for the practice of going to see a process in use at the point of value delivery?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "Six Sigma",
+          "b": "Gemba Walk",
+          "c": "Total Quality Management",
+          "d": "Kaizen"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": "",
+        "ref": "[Reference](https://en.wikipedia.org/wiki/Gemba#Gemba_walk) The Gemba Walk is an opportunity for staff to stand back from their day-to-day tasks to walk the floor of their workplace to identify wasteful activities."
+      },
+      {
+        "text": "When the team needs to make a decision, what is the best course of action?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "Try to achieve concensus.",
+          "b": "Take a vote and the majority rules.",
+          "c": "Identify the person who is most knowledgeable and ask them to decide.",
+          "d": "Let the most senior member of the team decide."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "Which action is something the Team Facillitator should NOT do?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "Embrace servant leadership.",
+          "b": "Estimate story points.",
+          "c": "Celebrate successes.",
+          "d": "Remove impediments"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "A team needs to do research, design, or prototyping. What is this type of story called?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "Exploratory spike",
+          "b": "Backlog refinement",
+          "c": "Functional decomposition",
+          "d": "R&D"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "Which statement about technical debt is true?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "Technical debt is another name for bugs",
+          "b": "It is at the Product Owner's description to allocate effort to reduce technical debt.",
+          "c": "Adding technical debt should be avoided at all costs.",
+          "d": "Technical debt is what the Product Owner owes to the developers if they work a lot of overtime to complete the sprint."
+        },
+        "ans": "]c",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "Which statement about estimating is not true?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "Absolute estimating is more reliable than relative estimating.",
+          "b": "Relative estimating is more reliable than absolute estimating.",
+          "c": "In estimating, accuracy is more important than precision.",
+          "d": "In estimating, the effort is more important than the time required."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "Which ceremony should the Product Owner not attend?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "daily stand-ups",
+          "b": "Sprint Retrospectives",
+          "c": "story point estimating",
+          "d": "code reviews"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "Which task is not the Product Owners responsibility?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "estimating story points",
+          "b": "refining acceptance criteria",
+          "c": "giving feedback to developers about the user stories",
+          "d": "demonstrating the work to stakeholders"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "Which choice is `_not_` considered during Sprint Planning?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "stories that meet the Definition of Done",
+          "b": "team velocity",
+          "c": "stories that meet the Definition of Ready",
+          "d": "team capacity"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "You have noticed a pattern that the most interesting stories on the Sprint Backlog get started right away, and the least interesting stories languish or don't get done. What should you do?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "Use a lottery system assign each story.",
+          "b": "Share your observation with the team and invite them to own and solve the problem.",
+          "c": "During story point estimation increase the points assigned to the least interesting stories so the team can boost their velocity.",
+          "d": "Ask the Tech Lead to assign every story to a developer so they all get done efficiently and with accountability."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "What Agile practice best supports this principle: 'At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly'?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "Sprint Review",
+          "b": "Sprint Retrospective",
+          "c": "daily stand-up",
+          "d": "Sprint Demo"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "On what are personas typically based?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "a sponsors or team members' personalities and traits",
+          "b": "what the developers think is user friendly",
+          "c": "real people, archetypal users, or composites of multiple users",
+          "d": "descriptions of the product's functionality and use"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "Which statement describes Shu Ha Ri?",
+        "img": "",
+        "qType": "",
+        "choices": {
+          "a": "It is a library of coding patterns.",
+          "b": "It is a software testing strategy.",
+          "c": "It is a standard for interface design.",
+          "d": "It is a model for skill development and mastery."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": "",
+        "ref": "[Reference](https://en.wikipedia.org/wiki/Shuhari) Japanese martial art concept which describes the stages of learning to mastery."
+      },
+      {
+        "text": "What does the Agile Manifesto indicate?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "Responding to change is more valuable than following a plan.",
+          "b": "Documenting requirements up front is more valuable than at the end.",
+          "c": "Following the plan is essential for not going over budget.",
+          "d": "Contract negotiation should be used to settle disputes."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": "",
+        "ref": "[Refernce] (https://www.agilealliance.org/agile101/the-agile-manifesto/) Full Manifesto."
+      },
+      {
+        "text": "What is the main benefit of a working agreement?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "It specifies core working hours.",
+          "b": "It clarifies the reporting relationships on the team.",
+          "c": "It defines the culture that the team aspires to achieve.",
+          "d": "It compiles everyone's information."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "What is the name of the information radiator that has multiple columns used to visualize the flow of work?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "Work Flow Indicator",
+          "b": "Value Stream Map",
+          "c": "Story Map",
+          "d": "Kanban Board"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "Which is the best definition of story points?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "They are a relative measure of the effort needed to complete a story.",
+          "b": "They a measure of development time only, test time is considered separately.",
+          "c": "They are a relative measure of the value of a story.",
+          "d": "They are a measure of time to complete a story."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "What is a Scrum of Scrums?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "It is technique for two or more teams working together coordinate their efforts.",
+          "b": "It is another name for the Scrum Master Community of Practice.",
+          "c": "It is an information radiator used to compare the velocity of several teams.",
+          "d": "It is the system demo for teams on the same release train."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "What is the Product Owner's role regarding the product backlog?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "The PO must identify the intended users of the features on the backlog.",
+          "b": "The PO is responsible for estimating the size of the total.",
+          "c": "The PO must identify the dependencies that impact the backlog.",
+          "d": "The PO decides what to include in the backlog and what to exclude."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "Why should a team do refactoring?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "It assigns developers to other teams in order to eliminate personality conflicts.",
+          "b": "It improves the functionality of the product.",
+          "c": "It recalibrates the success criteria for the product in the marketplace.",
+          "d": "It improves the design, which can lead improved development efficiency and maintainability."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "Which choice is not a benefit generally associated with product demonstrations?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "Learn about new requirements.",
+          "b": "Learn feature suitability.",
+          "c": "Learn about feature usability.",
+          "d": "Learn about feature estimates."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "What is an information radiator?",
+        "img": "",
+        "qType": "",
+        "choices": {
+          "a": "a list of KPIs for the team",
+          "b": "a list of overdue action items",
+          "c": "the task board",
+          "d": "a highly visible display of key performance data"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "According to the Agile Manifesto, your highest priority is to \\_.",
+        "img": "",
+        "qType": "",
+        "choices": {
+          "a": "minimize change requests",
+          "b": "satisfy the customer",
+          "c": "get the job done on time",
+          "d": "achieve the desired ROI"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "Product development organizations sometimes use descriptions of archetypal users and their values so that developers can design the system to meet their needs and wants. What are these descriptions called?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "actors",
+          "b": "roles",
+          "c": "agents",
+          "d": "personas"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "The Product Owner is focused on testing a new system concept in the marketplace as quickly and inexpensively as possible. What is this first-generation product called?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "preproduction version",
+          "b": "focus group demonstrator",
+          "c": "Generation 1 product",
+          "d": "minimum viable product"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "To whom should the Product Owner report?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "the Quality Manager",
+          "b": "the Product Manager",
+          "c": "the Scrum Master",
+          "d": "the Engineering Manager"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "What happens in Sprint 0?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "The team delivers no story points in that sprint.",
+          "b": "The team does regression testing prior to release to production.",
+          "c": "The team prepares to work on the product backlog.",
+          "d": "This is the time to inspect and adapt."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "What does the Definition of Done mean?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "The story meets the INVEST criteria.",
+          "b": "The team has completed all of the work in its Sprint.",
+          "c": "The story has been handed off to the DevOps team.",
+          "d": "The team has agreed on the criteria for story completion."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "Which element is most important when describing your product?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "its cost",
+          "b": "its licensing terms and conditions",
+          "c": "its benefits",
+          "d": "its features"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "Which choice best describes the Team Facilitator?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "a meeting scheduler",
+          "b": "a record keeper",
+          "c": "a project manager",
+          "d": "an Agile coach"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "What is the name of the technique that divides a story into smaller pieces?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "mitosis",
+          "b": "story slicing",
+          "c": "disaggregation",
+          "d": "Divide and Conquer"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "A team member comes to you with a complaint about another team member. What should you do?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "Bring the complaint to the other person and try to resolve the issue.",
+          "b": "Ask them to talk to the other person and try to work it.",
+          "c": "Notify HR of the problem and ask them to handle it.",
+          "d": "Invite both people a meeting and try mediate the conflict."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "What is the forming-storming-norming, performing model of team development known as?",
+        "img": "",
+        "qType": "",
+        "choices": {
+          "a": "the Tuckman model",
+          "b": "the Standard Team model",
+          "c": "Moore's Team Framework",
+          "d": "the Siebert model"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "What is the name of the ceremony in which you inspect the work completed during the sprint?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "Sprint Retrospective",
+          "b": "Sprint Review",
+          "c": "Next-Sprint Planning",
+          "d": "Velocity Confirmation"
+        },
+        "ans": "",
+        "explanation": "`Sprint Retrospective: Reflect on the previous sprint, discuss what’s working well, what could be improved, and how to improve it to be more productive.\nSprint Review: Discuss what has been accomplished during the sprint and whether the sprint goal has been met.`",
+        "tags": [ "agile" ],
+        "source": "[Reference](https://startinfinity.com/product-management-framework/scrum-sprint/sprint-review-vs-sprint-retrospective)"
+      },
+      {
+        "text": "Which choice best describes an Agile Release Train (ART)?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "continuous delivery",
+          "b": "comprised of the teams within a program",
+          "c": "DevOps Center of Excellence",
+          "d": "Scrum of Scrums"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "As an Agile coach, what should be your attitude toward your team members individual goals and motivations?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "Understand them—try align personal motivations with the team's progress toward the project goals.",
+          "b": "Nurture them-goals are the reason why people want to be at work.",
+          "c": "Disregard them — personal views have no bearing on reaching the project goals.",
+          "d": "Leverage them — use personal goals encourage team members raise their performance levels."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "Which phrase best describes an Agile team?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "self-directed",
+          "b": "self-managed",
+          "c": "self-sustaining",
+          "d": "self-organizing"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "Which technique does not help prioritize the backlog?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "MoSCow",
+          "b": "Kano",
+          "c": "WSJF",
+          "d": "Kaizen"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": "",
+        "ref": "[Reference](https://pl.wikipedia.org/wiki/Kaizen) oznaczające japońską filozofię biznesową (sposób postępowania) ustawicznego polepszania, poprawiania procesu zarządzania i produkcji na wszystkich jego szczeblach, z uwzględnieniem m.in. technik biznesu 'just-in-time'."
+      },
+      {
+        "text": "What does the Definition of Ready mean?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "The story has been tested end is ready for release to production.",
+          "b": "The story is ready to be brought into a sprint.",
+          "c": "The stakeholders are ready to discuss their requirements for story.",
+          "d": "The team has completed sprint 0 and is ready to work."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": "",
+        "ref": "[Reference](https://www.scruminc.com/definition-of-ready/) `Definition of Ready means that stories must be immediately actionable. The Team must be able to determine what needs to be done and the amount of work required to complete the User Story.`"
+      },
+      {
+        "text": "Which is NOT a principle of the Scaled Agile Framework?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "Centralize decision-making",
+          "b": "Apply systems thinking",
+          "c": "Take an economic view",
+          "d": "Unlock the intrinsic motivation of knowledge workers"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": "",
+        "ref": "[Source: Underlying principles of SAFe](https://en.wikipedia.org/wiki/Scaled_agile_framework#Underlying_principles_of_SAFe)"
+      },
+      {
+        "text": "What is the definition of capacity?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "It is an inventory of the team's knowledge and skills that is used to plan the work that they do.",
+          "b": "It is the number of teams that a Team Facilitator can support concurrently.",
+          "c": "It means the team determines their avalaibility for the next sprint.",
+          "d": "It is the maximum number of stories that will be allowed in a sprint."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "The team is complaining that they send request for clarification to the Product Owner, but these requests go unanswered. What action should you take?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "If there is a question about story, tell the developers to use their best judgement, avoid delay, and discuss the issue in sprint review.",
+          "b": "Send a note to the Product Owner saying the delays in completing the work will be their responsibility, not the team's.",
+          "c": "Develop a service-level agree (SLA) that defines certain response times for different types of request and ask the Product Owner to sign off on it.",
+          "d": "Schedule a problem-solving session with the Product Owner and the other team members."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "Which choice is a pillar of Lean?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "Frequent delivery of working software",
+          "b": "Respect for people and culture",
+          "c": "Courage",
+          "d": "Sustainable pace"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": "",
+        "ref": "[Reference](https://www.planview.com/resources/guide/lean-principles-101/what-is-lean/#:~:text=The%20Pillars%20of%20Lean) `Two pillars are (1) Continuous Improvement, and (2) Respect for People.`"
+      },
+      {
+        "text": "Which statement best describes Agile, Lean, and Six Sigma?",
+        "img": "",
+        "qType": "",
+        "choices": {
+          "a": "They are strategies for delivering customer value.",
+          "b": "They were pioneered by Toyota.",
+          "c": "They are strategies for discovering what the customer wants.",
+          "d": "They are derived from statistical process control."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": "",
+        "ref": "1. [Reference](https://agilemanifesto.org/principles) - First paragraph clearly points out that Agile is about delivering value to the customer.\n2. [Lean](https://en.wikipedia.org/wiki/Lean_software_development) is a subset of the Agile community and\n3. [Six Sigma](https://en.wikipedia.org/wiki/Six_Sigma) is Agile applied to manufacturing."
+      },
+      {
+        "text": "What is a user story?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "A description of what an actor wants to do in order to accomplish a goal",
+          "b": "A description of archetypal users so the developers can make the solution user-friendly",
+          "c": "A report from the field about a user's experience with the product",
+          "d": "The Agile term for a requirement"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "What is the expected output of a Planning Poker meeting?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "The stories were discussed and each had a story point estimate assigned.",
+          "b": "The team gave feedback to the Product Owner about the acceptance criteria.",
+          "c": "The team decided what stories should be developed within the same sprint.",
+          "d": "The team made a preliminary plan for which stories will be completed in the next quarter."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "What is the definition of velocity?",
+        "img": "",
+        "qType": "",
+        "choices": {
+          "a": "The number of story points delivered during a sprint",
+          "b": "The average waiting time for a story on the sprint backlog",
+          "c": "The average wait time for a story to move from the product backlog to the sprint backlog",
+          "d": "The time it takes a developer to complete a story divided by its relative value"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "What is most important for a successful Product Owner to understand?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "The budget for the product.",
+          "b": "The underlying technology of the product.",
+          "c": "The development team's strengths and weaknesses.",
+          "d": "The business context for the product."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": "",
+        "ref": "[Reference](https://premieragile.com/how-does-a-product-owner-measure-value) `A Scrum Team has 3 roles - Product Owner, Scrum Master and Developers. All 3 roles generate Value in their own contexts; however, it is the Product Owner who maximizes the Value from a product or business context.`"
+      },
+      {
+        "text": "Which statement about the Agile Manifesto is true?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "It was written via crowdsourcing and its authors are unknown.",
+          "b": "It has been translated into dozens of languages and used around the world.",
+          "c": "It was written in 2001 and is obsolete.",
+          "d": "It was first published as part of Jim Highsmith's doctoral thesis."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "The team is not going to complete its Sprint Commitment. As the Team Facilitator, what should you do?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "Ask the PO to extend the sprint.",
+          "b": "Advise the PO as soon as possible.",
+          "c": "Report this at the Sprint Review.",
+          "d": "Point out the reasons why and collaborate on solutions."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": "",
+        "ref": "[Reference](https://agilemanifesto.org/principles), the last paragraph perfectly informs what an agile developer would do in this situation."
+      },
+      {
+        "text": "When a user story is further decomposed, what are the elements called?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "technical tasks",
+          "b": "actors and actions",
+          "c": "Who, What, Why",
+          "d": "threads"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "What does collective ownership mean?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "Every member of the team can make changes to any part of the code as necessary.",
+          "b": "If someone is at fault, then the whole team is at fault.",
+          "c": "The team shares equally in the profits that the product generates.",
+          "d": "The team, not the individuals, receive performance evaluations."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "According to the Agile Manifesto, how often should developers and business people work together?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "as often as needed",
+          "b": "biweekly",
+          "c": "daily",
+          "d": "weekly"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "What do you call the practice of writing a test before the code is written?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "design for testability",
+          "b": "test-driven development",
+          "c": "unit testing",
+          "d": "test then code"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "What is the term for a team member who is 'T-skilled'?",
+        "img": "",
+        "qType": "",
+        "choices": {
+          "a": "cross-functional",
+          "b": "jack-of-all-trades",
+          "c": "apprentice developer",
+          "d": "generalizing specialist"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "Which statement is not true about pair programming?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "It has been discredited because it is too expensive.",
+          "b": "In pair programming, two developers share one computer and take turns at the keyboard.",
+          "c": "It is a great way to teach someone who is new to the team.",
+          "d": "The code produced by two developers who are collaborating is typically higher quality than if they were working alone."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "People with a fixed mindset ____",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "have better focus and longer attention spans",
+          "b": "are more goal oriented",
+          "c": "tend to be more resilient",
+          "d": "are more afraid of failure"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "How can you improve interaction between team members?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "Move people's workstations around in the team room to create new social possibilities.",
+          "b": "Ask the team if they would like to do something recreational together and offer to organize it.",
+          "c": "Tell the team that you see this as a problem and ask them to solve it.",
+          "d": "Since no one has come to you with a complaint, assume that the limited interaction works for everyone."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "What is the expected outcome of the daily stand-up meeting?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "updated status on all of the work",
+          "b": "team alignment on its plan for the day",
+          "c": "a list of impediments and priorities",
+          "d": "a report to the Product Owner of stories ready to be accepted"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "What is the name of the technique in which a story is broken down, input splits the data, and it results in a new output?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "input-output processing",
+          "b": "ITIOO story format",
+          "c": "thin vertical slice",
+          "d": "structured coding"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": "",
+        "ref": "ITIOO isn't a thing, thin verticle slicing is refering to what work you prioritise, and structured code has nothing to so with stories."
+      },
+      {
+        "text": "What is the term for a team member who is 'T-shaped'?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "cross-functional",
+          "b": "jack-of-all-trades",
+          "c": "generalizing specialist",
+          "d": "apprentice developer"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": "",
+        "ref": "[Reference](https://www.adventureswithagile.com/2017/07/12/heres-thing-t-shaped-people/) `One of the challenges for organisations when they move to Agile ways of working is the often mentioned need to build teams made up of 'T-shaped' people. This can also be described as a cross-functionality.`"
+      },
+      {
+        "text": "What is a lean canvas?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "It is used to decompose solution into epics, features, and stories",
+          "b": "It is a template for lightweight business plans that makes your assumptions explicit",
+          "c": "It is a tool to plan future project releases",
+          "d": "It is a technique for projecting growth in market share."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": "",
+        "ref": "[Reference](http://ask.leanstack.com/en/articles/901274-what-is-a-lean-canvas) `1-page business plan template that helps you deconstruct your idea into its key assumptions using 9 basic building blocks.`"
+      },
+      {
+        "text": "The team is not going to complete its Sprint Commitment. As Team Facilitator, what should you do?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "advise the PO as soon as possible",
+          "b": "point out the reasons why and collaborate on solutions",
+          "c": "report this at the Sprint Review",
+          "d": "Ask the PO to extend the sprint"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": "",
+        "ref": "[Reference](https://mcqpoint.com/question/what-happens-when-all-the-sprint-items-cannot-be-completed/) `non verified answer - extend, otherwise goes to backlog`"
+      },
+      {
+        "text": "Which of these traits is most important for being an effective Team Facilitator?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "being self-aware",
+          "b": "being extroverted",
+          "c": "having type A personality (def not this :P)",
+          "d": "being someone who takes charge"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": "",
+        "ref": "[Reference](https://www.globalknowledge.com/us-en/course/87262/agile-team-facilitation-icp-atf/) `non verified answer - A facilitator is someone who helps a group identify common objectives and then offers group processes to achieve defined outcomes while maintaining neutrality. A skilled facilitator consciously embodies self-awareness, self-management, and bias management, while conveying openness and enthusiasm. `"
+      },
+      {
+        "text": "When is the best time to update the team's burndown chart?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "before the Sprint Retospective",
+          "b": "after the daily stand-up",
+          "c": "before the daily Scrum",
+          "d": "before quarterly planning"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "What is an Empathy Map?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "It is a team-building technique used to increase productivity.",
+          "b": "It is a tool used by organizations for competitive intelligence.",
+          "c": "It is a retrospective technique used to improve team morale.",
+          "d": "It is a collaborative tool used to gain deeper insights into customers."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "Which work descriptions are not written in the language of users?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "tasks",
+          "b": "epics",
+          "c": "stories",
+          "d": "features"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "The team has an incomplete story at the end of the sprint and wants to claim partial credit for the work completed. What should you do?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "Ask the Product Owner to accept the storyy with the promise that the team will complete it in the next sprint",
+          "b": "Ask them to slice the story to reflect the work done and the work to be donef",
+          "c": "Ask the product owner to revise the acceptance criteria so it can be accepted and counted",
+          "d": "explain that, in Agile, working software is the primary measure of progress. Then help..."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "You are facilitating a meeting and, unexpectedly, a key person doesn't attend. What should you do?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "Hold the meeting and update the person who could not attend later.",
+          "b": "Ask the person who could not attend to reschedule the meeting based on their availability.",
+          "c": "Ask all meeting participants what they want to do about the one person's absence",
+          "d": "Reschedule the meeting for when all necessary people can attend"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "What is Open Space?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "a design concept for team rooms",
+          "b": "a room for teams to demo their work",
+          "c": "a placeholder in the code body for the future functionality",
+          "d": "a meeting format where participants create and manage the agenda"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "When planning a meeting, which action is most important?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "clarifying the expected outcome",
+          "b": "taking notes",
+          "c": "inviting the Project Manager",
+          "d": "making sure everyone speaks"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "Which choice is not an expected benefit of refactoring?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "Refactoring can reduce the effort for future development",
+          "b": "Refactoring is used to fix bugs",
+          "c": "Refactoring improves the design of the system",
+          "d": "Refactoring improves the maintainability of the code"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "In the Scaled Agile Framework, consecutive iterations are grouped together into a PI. What is a PI?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "Project Increment",
+          "b": "Portfolio Increment",
+          "c": "Product Increment",
+          "d": "Program Increment"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": "",
+        "ref": "[Reference](https://www.scaledagileframework.com/program-increment/) `A Program Increment (PI) is a timebox during which an Agile Release Train (ART) delivers incremental value in the form of working, tested software and systems. PIs are typically 8 – 12 weeks long.`"
+      },
+      {
+        "text": "How can you improve interaction between team members?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "Move people's workstation around in the team room to create new social possibilites",
+          "b": "Since no one has come to you with a compliant, assume that the limited interaction works for everyone",
+          "c": "Ask the team if they would like to do something recreational together and offer to organize it",
+          "d": "Tell the team that you see this as a problem and ask them to solve it"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "Which scale is typically used for Planning Poker?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "less than 1 hour, 1 to 4 hours, 4 to 8 hours, 8 to 24 hours, more than 24 hours",
+          "b": "2, 4, 6, 8, 10",
+          "c": "XS, S, M, L, XL",
+          "d": "1, 2, 3, 4, 5, 8, 13, 20"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "You are the Scrum Master and, having just facilitated a meeting, you're reflecting on ways to improve. What skill are you displaying?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "being self-aware",
+          "b": "being extroverted",
+          "c": "having type A personality",
+          "d": "being someone who takes charge"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "What background information is most important for a successful Product Owner to understand?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "The budget for the product.",
+          "b": "The underlying technology of the product.",
+          "c": "The development team's strengths and weaknesses.",
+          "d": "The business context for the product."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "You are facilitating a meeting to decompose user stories and, unexpectedly, a development team member cannot attend. What should you do?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "Hold the meeting and update the person who could not attend later.",
+          "b": "Ask the person who could not attend to reschedule the meeting based on their availability.",
+          "c": "Ask all meeting participants what they want to do about the one person's absence",
+          "d": "Reschedule the meeting for when all necessary people can attend"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "As the Scrum Master, you've observed that team members are more comforatble communicating via instant messaging than through direct conversions. How can you encourage conversation between team members?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "Move people's workstation around in the team room to create new social possibilities.",
+          "b": "Since no one has come to you with a complaint, assume that the limited conversation works for everyone.",
+          "c": "Tell the team that you see this as a problem and ask them to solve it.",
+          "d": "Ask the team if they can think of ways to increase direct converstaion."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "What is the expected outcome of the Daily Scrum meeting?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "updated status on all of the work",
+          "b": "team alignment on its plan for the day",
+          "c": "a list of impediments and priorities",
+          "d": "a report to the Product Owner of stories ready to be accepted"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "In Agile, which of the following options is a high priority?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "Comprehensive documentation",
+          "b": "Processes and tools",
+          "c": "Contract negotiation",
+          "d": "Working software"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": "",
+        "ref": "[Reference](https://www.freecodecamp.org/news/applying-agile-methodology-to-data-science-projects/) `Agile projects are characterized by a series of tasks that are conceived, executed and adapted as the situation demands and one of the priorities is working software.`"
+      },
+      {
+        "text": "What types of environments work best for Agile principles?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "It works great in static environments.",
+          "b": "It works great in dynamic environments.",
+          "c": "It works great in customer environments.",
+          "d": "Agile has been proven to not work in any good environment."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": "",
+        "ref": "[Reference](https://www.freecodecamp.org/news/applying-agile-methodology-to-data-science-projects/) `The Agile environment appeals to quick actions, discussions, evaluations, and considerations for different approaches. It works great in dynamic environments where there is a potential for changing or evolving requirements.`"
+      },
+      {
+        "text": "What does being a Cross-Functional team mean?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "That every team in the organization has a particular specialism",
+          "b": "That each team member has their own specialism",
+          "c": "That all the skills necessary exist within the team",
+          "d": "That teams can communicate effectively"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "What is a PBI?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "Product Before Increment",
+          "b": "Project Billing Information",
+          "c": "Productive Backlog Increment",
+          "d": "Product Backlog Item"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "Which of the following scrum events is dedicated to process improvement?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "The sprint planning",
+          "b": "The daily scrum",
+          "c": "The sprint retrospective",
+          "d": "The sprint review"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "WFor a month-long sprint, the time-box for a sprint retrospective is **\\_**.",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "3 hours",
+          "b": "6 hours",
+          "c": "8 hours",
+          "d": "1 hour"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "Which type of Kanban diagram shows the number of issues in each of the states?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "burn down chart",
+          "b": "control chart",
+          "c": "burn up chart",
+          "d": "cumulative flow"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "Which of the following statements about a Kanban control chart is false?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "The light blue shaded area is the standard deviation.",
+          "b": "The green dots are the issues themselves.",
+          "c": "The control chart works best when the tasks that you're tracking are of different sizes.",
+          "d": "The blue line is the rolling average cycle time."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "What does EBM consider in Managerial Decisions?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "Productivity and ethical concerns",
+          "b": "Circumstance and ethical concerns",
+          "c": "Circumstances and financial concerns",
+          "d": "Moral and ethical concerns"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "Stacey's process complexity model shows us that agile thinking is best **\\*\\***\\_\\_\\_**\\*\\***.",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "When there is high complexity",
+          "b": "When there is high certainty",
+          "c": "Regardless of complexity or certainty",
+          "d": "When there is low certainty and complexity"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "Which work descriptions are not written in the language of users?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "tasks",
+          "b": "epics",
+          "c": "stories",
+          "d": "features"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "What is a DEEP product backlog?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "Detailed Appropriately, Emergent, Elegant & Prioritized",
+          "b": "Detailed Adequately, Emergent, Estimated & Prioritized",
+          "c": "Detailed Appropriately, Emanant, Estimated & Prioritized",
+          "d": "Detailed Appropriately, Emergent, Estimated & Prioritized"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "Which Jira feature provides an overview of multiple projects?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "roll-up boards",
+          "b": "code integration",
+          "c": "task automation",
+          "d": "reporting"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "Which of the following elements is not a pillar of Scrum?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "adaptation",
+          "b": "transparency",
+          "c": "sustainability",
+          "d": "inspection"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "What aspects of the product is the Product Owner responsible for?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "Guiding the Development Team on the product",
+          "b": "Managing and owning the backlog",
+          "c": "All of the choices are correct",
+          "d": "The product itself"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "In Scrum, at the end of each sprint, there is a **\\_** meeting in which the team receives and gives feedback on their processes and their performance.",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "retrospective",
+          "b": "review",
+          "c": "reflection",
+          "d": "sprint"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "In the INVEST acronym for user stories, what does the 'V' stand for?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "valuable",
+          "b": "verifiable",
+          "c": "veracity",
+          "d": "voluminous"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "Having a mindset focused on growth and opportunity is healty for Agile team members. How can you display a growth mindset?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "See challenges as opportunities",
+          "b": "Point out the failures of others",
+          "c": "Quit while you're ahed",
+          "d": "Celebrate only when you succeed"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "Which statement about the Agile Manifesto is true?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "It was written via crowdsourcing and its authors are unknown",
+          "b": "It was written in 2001 and is obsolete.",
+          "c": "It was written in response to documentation-heavy software development project practices.",
+          "d": "It was first published as part of Jim Highsmith's doctoral thesis."
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": "",
+        "ref": "[Reference](https://agilemanifesto.org/history.html) `'(...)others sympathetic to the need for an alternative to documentation driven, heavyweight software development processes convened.' [First paragraph]`"
+      },
+      {
+        "text": "Progress toward a sprint goal is in jeopardy becauseyou have not received sales data. What should you do?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "Be sure to mention the issue in the next Scrum",
+          "b": "Share the problem with your team to see if they can create a solution",
+          "c": "Work around the issue until the last responsible moment to solve it",
+          "d": "Check the Product Owner's schedule and book time for a meeting"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "When is the best time to review the team's burndown chart?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "after the daily stand-up",
+          "b": "before the Sprint Retrospective",
+          "c": "before the Daily Scrum",
+          "d": "before quarterly planning"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "Which statement about the actor in a user story can be true?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "The system cannot be the actor",
+          "b": "There must be multiple personas for each actor",
+          "c": "The actor can be the system itself",
+          "d": "The actor does not have to be a specified role in the solution"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": ""
+      },
+      {
+        "text": "Which choice is not a recognized framework fr scaling agile?",
+        "img": "",
+        "qType": "mc",
+        "choices": {
+          "a": "LeSS",
+          "b": "DA",
+          "c": "SAFe",
+          "d": "DUN"
+        },
+        "ans": "",
+        "explanation": "",
+        "tags": [ "agile" ],
+        "source": "",
+        "ref": "[Source](https://www.digite.com/blog/scaled-agile-frameworks/)"
+      }
+    ]
+}
